@@ -30,7 +30,6 @@ public class TestTillHomePage extends DriverSetup {
         Thread.sleep(3000);
         tillHomePage.clickElement(tillHomePage.skip);
 
-
     }
 
 

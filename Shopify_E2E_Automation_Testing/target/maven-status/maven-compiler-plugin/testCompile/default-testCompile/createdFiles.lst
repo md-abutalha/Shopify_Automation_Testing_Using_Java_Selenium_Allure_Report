@@ -1,0 +1,10 @@
+pages\BasePage.class
+pages\TillHomePage.class
+pages\ProductPage.class
+pages\PurchaseOrderPage.class
+testcases\TestRegistrationPage.class
+testcases\TestPurchaseOrderPage.class
+pages\RegistrationPage.class
+testcases\TestProductCrud.class
+utilities\DriverSetup.class
+testcases\TestTillHomePage.class

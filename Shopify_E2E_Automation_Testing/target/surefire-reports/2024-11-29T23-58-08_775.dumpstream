@@ -1,0 +1,5 @@
+# Created at 2024-11-29T23:58:19.666
+Boot Manifest-JAR contains absolute paths in classpath 'D:\SQA\java-with-selenium-automation-official\AssignmentByOfficialCompany\4Beats_Task\Shopify_Automation_Testing_Using_Java_Selenium\Shopify_E2E_Automation_Testing\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
