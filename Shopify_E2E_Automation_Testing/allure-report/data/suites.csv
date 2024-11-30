@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","19","openBrowser","Default Suite","Sat Nov 30 00:07:43 BDT 2024","broken","Sat Nov 30 00:07:43 BDT 2024","testcases.TestPurchaseOrderPage","Shopify_E2E_Automation_Testing","testcases.TestPurchaseOrderPage","openBrowser"
+"","128753","Reg With valid credentials","Surefire suite","Sat Nov 30 00:03:07 BDT 2024","passed","Sat Nov 30 00:05:15 BDT 2024","testcases.TestRegistrationPage","Surefire test","testcases.TestRegistrationPage","testRegistrationWithValidCredentials"
+"","142452","purchase  order test will be test","Default Suite","Sat Nov 30 00:31:33 BDT 2024","passed","Sat Nov 30 00:33:56 BDT 2024","testcases.TestPurchaseOrderPage","Shopify_E2E_Automation_Testing","testcases.TestPurchaseOrderPage","PurchaseOrderPage"
+"","75","openBrowser","Default Suite","Wed Nov 27 19:43:50 BDT 2024","broken","Wed Nov 27 19:43:50 BDT 2024","testcases.TestRegistrationPage","Shopify_E2E_Automation_Testing","testcases.TestRegistrationPage","openBrowser"
+"","97516","Create products","Surefire suite","Fri Nov 29 23:58:58 BDT 2024","passed","Sat Nov 30 00:00:35 BDT 2024","testcases.TestProductCrud","Surefire test","testcases.TestProductCrud","testCreateProductPage"
+"","122685","till home page all function","Default Suite","Wed Nov 27 20:02:07 BDT 2024","passed","Wed Nov 27 20:04:09 BDT 2024","testcases.TestTillHomePage","Shopify_E2E_Automation_Testing","testcases.TestTillHomePage","testTillALlTask"
