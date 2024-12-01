@@ -23,10 +23,7 @@ public class DriverSetup {
 
     public WebDriver getBrowser(String browserName) {
         if (browserName.equalsIgnoreCase("chrome")) {
-            ChromeOptions chromeOptions = new ChromeOptions();
-            chromeOptions.setBinary("C:\\Users\\dell\\Downloads\\Compressed\\chrome-win64\\chrome.exe");
-            chromeOptions.addArguments("user-data-dir=C:\\Users\\dell\\AppData\\Local\\Google\\Chrome for Testing\\User Data");
-            return new ChromeDriver(chromeOptions);
+            return new ChromeDriver();
         } else if (browserName.equalsIgnoreCase("firefox")) {
             return new FirefoxDriver();
         } else if (browserName.equalsIgnoreCase("edge")) {
